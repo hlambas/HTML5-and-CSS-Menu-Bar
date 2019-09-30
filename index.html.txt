@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>Drop-down Menu design - Easy Tutorials</title>
+	</head>
+	<body>
+		<ul>
+			<li>Home</li>
+			<li>About Us</li>
+			<li>Services</li>
+			<li>Clients</li>
+			<li>Investers</li>
+			<li>Pricing</li>
+			<li>Training</li>
+			<li>Contact</li>
+		</ul>
+	</body>
+</html>
+
+
+
